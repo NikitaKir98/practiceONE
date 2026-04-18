@@ -40,7 +40,7 @@ git push
 6) README
 В `README.md` добавьте/замените строку:
 
- `STUDENT_TOKEN: TOKEN-NikitaKir98`
+STUDENT_TOKEN: TOKEN-NikitaKir98
 
 и закоммитьте:
 
